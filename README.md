@@ -1,9 +1,5 @@
 ## Oiii! Eu sou a Giu Zacchi
 
- 🌱 Me aprofundando em Js e estudando Python
- 📫 Contate-me no email: giuliazacchi9@gmail.com
- 😄 Pronouns: ela/dela
-
 <div align="center">
   <a href="https://github.com/Giulia0Zacchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giulia0Zacchi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
